@@ -1,0 +1,73 @@
+/* .carousel-item {
+    height: 400px;
+    color: #fff;
+    position: relative;
+    background: no-repeat secroll center secroll;
+    background-size: cover;
+}
+
+.carousel-item::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    background-color: #000220;
+    opacity: 0.5;
+}
+
+
+
+.carousel-caption h5 {
+    font-size: 4rem;
+    padding-bottom: 30px;
+}
+
+.slider-btn{
+    padding-top: 20px;
+}
+
+.slider-btn .btn{
+    background-color: red;
+    border: none;
+    color: #fff;
+    font-size: 1.2rem;
+    opacity: 0.8;
+
+} */
+
+
+
+
+
+.carousel-item {
+    height: 400px;
+    background-color: #000220;
+    color: #fff;
+    padding-top: 1rem;
+    position: relative;
+
+}
+
+.container {
+    position: absolute;
+    padding-bottom: 50px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+
+}
+
+
+.voer-img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background-position: center;
+    background-size: cover;
+
+
+}
